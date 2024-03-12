@@ -1,0 +1,1 @@
+docker run --name test -d javascript-image:latest
